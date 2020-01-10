@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
+title: About
 tags: [about]
-date: 2016-03-21
+date: 2020-01-10
 comments: false
 ---
     
