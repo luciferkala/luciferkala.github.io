@@ -6,7 +6,7 @@ date: 2020-01-10
 comments: false
 ---
     
-<center>양정훈</center>
+<center><h1>양정훈</h1></center>
 
 ## 관심 분야
 * Node.js
