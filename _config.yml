@@ -27,7 +27,7 @@ sass:
 
 # Comments
 disqus_shortname: luciferkala
-
+discus-identifier: luciferkala # add your discus identifier
 # Social
 # if you don't have any of social below, comment the line.
 #google:
